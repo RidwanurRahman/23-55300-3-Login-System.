@@ -22,7 +22,6 @@ namespace Login_and_Register
             txtUsername.Focus();
         }
 
-        // Optional connection test required by the original lab specification.
         public void TestConnection()
         {
             try
